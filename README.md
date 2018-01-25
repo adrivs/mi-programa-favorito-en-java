@@ -7,19 +7,19 @@ Uno de mis programas favoritos de Java es el que salen caracteres aleatorios al 
 ```java
 
 public class Matrix {
-  public static void main(String[] args){
-    int num;
-    final String GREEN = "\033[32m";
-    for(int i = 0; i < 8000; i++) {
-      num = (int)(Math.random() * (126 - 32 + 1) + 32);
-      System.out.print(GREEN + (char)(num));
-      if (i % 100 == 0){
-        System.out.println();
-      }
-    } 
+  public static void main(String[] args) {
+  
+  int numero;
+  
+  for (int i = 0; i < 1000000; i++) {
+  
+    numero = (int)(Math.random() * 95 + 32);
+    
+    char caracter = (char)(numero);
+    System.out.print("\033[32m" + caracter + " ");
+    }
   }
 }
-  
   ```
   
   
