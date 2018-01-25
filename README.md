@@ -22,4 +22,5 @@ public class Matrix {
 }
   ```
   
+  Solo hay que hacer un bucle "infinito" el cual pinte caracteres ASCII aleatorio entre el 32 y el 126. 
   
