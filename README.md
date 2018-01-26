@@ -24,5 +24,5 @@ public class Matrix {
   
  <img src="imagenes/Matrix.jpg">
  
-  Solo hay que hacer un bucle "infinito" el cual pinte caracteres ASCII aleatorios entre el 32 y el 126. 
+  Solo hay que hacer un bucle "infinito" el cual pinte caracteres ASCII aleatorios entre el 32 y el 126. :sunglasses:
   
