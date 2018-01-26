@@ -2,7 +2,7 @@
 
 Uno de mis programas favoritos de Java es el que salen caracteres aleatorios al estilo Matrix. Es un programa fácil. 
 
-:large_blue_circle: A continuación os muestro el código :red_circle:
+:large_blue_circle: A continuación os muestro el código y una captura de lo que sale al compilarlo :red_circle:
 
 ```java
 
